@@ -36,6 +36,7 @@ Projects will be added here over time.
 
 | Project | Description | Status |
 | --- | --- | --- |
+| [Codex Usage Remaining](https://github.com/jiaxing-labs/codex-usage-remaining) | A native Windows overlay and macOS menu-bar meter that keeps Codex quota windows and reset times visible. | ✅ Active |
 | Coming soon | More open-source tools and experiments are on the way. | 🚧 In Progress |
 
 ## 🛠 Tech & Interests
